@@ -1,0 +1,64 @@
+__Lrdata 74 FFFFFF8F DATA
+__Hrbss 74 0 DATA
+__Lrbss 20 0 DATA
+strx_xcopy 5B 0 CODE
+__Birdata 3 FFFFFF8F DATA
+__Hirdata 74 FFFFFF8F DATA
+__Lirdata 74 FFFFFF8F DATA
+powerup B0 0 CODE
+__Htext 74 0
+__Ltext 74 0
+strx_copy 71 0 CODE
+__Hcode 74 0
+__Lcode 74 0
+__Hdata 152 0 CODE
+__Hconst 100 0 CODE
+__Ldata 100 0 CODE
+__Lconst 100 0 CODE
+__Bbss 74 0 XDATA
+__Hbss 74 0 XDATA
+__Hstrings 100 0 CODE
+__Lbss 74 0 XDATA
+__Lstrings 100 0 CODE
+str_xcopy 5B 0 CODE
+__S0 152 0
+start1 9C 0 CODE
+__Hnvram 74 0 XDATA
+small_model 1 0
+__Lnvram 74 0 XDATA
+__Hheap 74 0 XDATA
+__Lheap 74 0 XDATA
+_main 3 0 CODE
+str_copy 71 0 CODE
+?a_main 20 0 DATA
+_exit AD 0 CODE
+start 0 0 CODE
+intlevel0 0 0
+strx_load 71 0 CODE
+__Brbit 20 20 BITSEG
+str_load 71 0 CODE
+__Hrbit 0 20 BITSEG
+intlevel1 0 0
+__Hvectors 3 0 CODE
+__Lrbit 0 20 BITSEG
+__Lvectors 0 0 CODE
+__Bidata 74 0 DATA
+__Hidata 74 0 DATA
+__Lidata 74 0 DATA
+stack_internal 1 0
+__Brdata 3 FFFFFF8F DATA
+__Hrdata 74 FFFFFF8F DATA
+%segments
+vectors 0 B2 CODE
+rbit 0 53 BITSEG
+data 100 151 CODE
+%locals
+Z:\main_0.obj
+C:\Users\class\DOCUME~1\NATION~1\CIRCUI~1.0\MCUWOR~1\pr9vika\project1\main.c
+4 3 0 CODE
+12 5 0 CODE
+17 14 0 CODE
+18 2B 0 CODE
+17 3E 0 CODE
+16 56 0 CODE
+21 58 0 CODE
